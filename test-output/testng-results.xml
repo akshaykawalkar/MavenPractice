@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="packOne" duration-ms="29973" started-at="2021-12-21T16:15:54Z" finished-at="2021-12-21T16:16:24Z">
+  <suite name="Default suite" duration-ms="9093" started-at="2021-12-21T17:00:26Z" finished-at="2021-12-21T17:00:35Z">
     <groups>
     </groups>
-    <test name="packOneTest" duration-ms="29973" started-at="2021-12-21T16:15:54Z" finished-at="2021-12-21T16:16:24Z">
-      <class name="Chrome">
-        <test-method status="PASS" signature="Chrome()[pri:0, instance:Chrome@79efed2d]" name="Chrome" duration-ms="9162" started-at="2021-12-21T16:15:54Z" finished-at="2021-12-21T16:16:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Chrome -->
-      </class> <!-- Chrome -->
+    <test name="Default test" duration-ms="9093" started-at="2021-12-21T17:00:26Z" finished-at="2021-12-21T17:00:35Z">
       <class name="Edge">
-        <test-method status="PASS" signature="Edge()[pri:0, instance:Edge@2928854b]" name="Edge" duration-ms="11190" started-at="2021-12-21T16:16:03Z" finished-at="2021-12-21T16:16:14Z">
+        <test-method status="PASS" signature="Edge()[pri:0, instance:Edge@4cc0edeb]" name="Edge" duration-ms="9052" started-at="2021-12-21T17:00:26Z" finished-at="2021-12-21T17:00:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Edge -->
       </class> <!-- Edge -->
-      <class name="Firefox">
-        <test-method status="PASS" signature="firefox()[pri:0, instance:Firefox@27ae2fd0]" name="firefox" duration-ms="9574" started-at="2021-12-21T16:16:14Z" finished-at="2021-12-21T16:16:24Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- firefox -->
-      </class> <!-- Firefox -->
-    </test> <!-- packOneTest -->
-  </suite> <!-- packOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
