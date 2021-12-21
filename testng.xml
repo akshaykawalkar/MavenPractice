@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+ 
+<suite name="packOne" verbose="2" >
+  <test name="packOneTest"   >
+    <classes>
+    <class name="Chrome"></class>
+     <class name="Edge"></class>
+     <class name="Firefox"></class>
+    </classes>
+ </test>
+ </suite>
